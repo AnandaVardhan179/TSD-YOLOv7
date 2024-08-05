@@ -1,6 +1,6 @@
 # Traffic Sign Detection (TSD)
 
-This repository contains all the necessary files and code to train, test, and run traffic sign detection using YOLOv7.
+This repository contains few files to explain and get an idea about how I performed the project.
 
 ## Directory Structure
 
